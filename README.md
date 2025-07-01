@@ -1,4 +1,4 @@
-# AI_text_detection
+# 🤖 AI vs Human Text Classifier Bot
 Fine-tuned BERT for text classification task (AI-generated vs. human-written) with a Telegram bot interface
 ```
 ai_detect_bot/   
