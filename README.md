@@ -1,5 +1,11 @@
 # 🤖 AI vs Human Text Classifier Bot
-Fine-tuned BERT for text classification task (AI-generated vs. human-written) with a Telegram bot interface
+Fine-tuned BERT for text classification task (AI-generated vs. human-written) with a Telegram bot interface   
+
+# 🛠️ Technical Stack   
+### Core Model: bert-base-multilingual-uncased fine-tuned on 50k samples   
+### Backend: Python + PyTorch + Transformers   
+### Telegram API: python-telegram-bot   
+### Deployment: Docker + Yandex Cloud Serverless Containers   
 ```
 ai_detect_bot/   
 ├── 📁 my_finetuned_bert/    # BERT weights      
