@@ -1,7 +1,7 @@
-# ai_text_detection
+# AI_text_detection
 Fine-tuned BERT for text classification task (AI-generated vs. human-written) with a Telegram bot interface
 ```
-ai_detet_bot/   
+ai_detect_bot/   
 ├── 📁 my_finetuned_bert/    # BERT weights      
 │   
 ├── 📄 bot.py                # 🧠 Main bot logic   
