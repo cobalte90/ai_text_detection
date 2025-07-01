@@ -2,7 +2,7 @@
 Fine-tuned BERT for text classification task (AI-generated vs. human-written) with a Telegram bot interface   
 
 # 🛠️ Technical Stack   
-### Core Model: bert-base-multilingual-uncased fine-tuned on 50k samples   
+### Core Model: bert-base-multilingual-uncased fine-tuned on 1 million samples   
 ### Backend: Python + PyTorch + Transformers   
 ### Telegram API: python-telegram-bot   
 ### Deployment: Docker + Yandex Cloud Serverless Containers   
